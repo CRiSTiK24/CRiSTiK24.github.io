@@ -1,2 +1,2 @@
-# CVcristik.github.io
+# CRiSTiK.github.io
 Very simple website to host my CV
